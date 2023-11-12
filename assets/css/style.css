@@ -1,0 +1,41 @@
+/* Estilos de index.html */
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+.navbar {
+  background-color: #212529;
+}
+
+#Contacto{
+  background-image: url("../img/fondo-tec.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+#Mi-experiencia {
+  background-color: #F3EEEA;
+}
+
+button {
+  text-align: center;
+}
+
+/* Estilos de portafolio.html */
+
+#Portafolio .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#Portafolio{
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
+
+
+
